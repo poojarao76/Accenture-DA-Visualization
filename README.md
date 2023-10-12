@@ -1,6 +1,6 @@
 ## social_buzz_analytics
 
-### This project is a part of Accenture Data analytics and Visualization Job simulation cerification powered by Forage .
+### This project is a part of Accenture North America Data Analytics and Visualization Job simulation cerification powered by Forage.
 
 Social Buzz a large social media conglomerate it emphasizes content by keeping all users anonymous, only tracking user reactions on every piece of content.
 
